@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemant Soni</h1>
 <h3 align="center">Student</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantsoni42&label=Profile%20views&color=0e75b6&style=flat" alt="hemantsoni42" /> </p> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantsoni42" alt="hemantsoni42" /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=hemantsoni42&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sonih5190@gamil.com**
 
-<h3 align="left">Connect with me:</h3>
+<!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
 </p>
 
