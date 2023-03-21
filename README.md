@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemant Soni</h1>
-<h3 align="center">Student</h3>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hemantsoni42&row=1&theme=algolia)](https://github.com/hemantsoni42)
