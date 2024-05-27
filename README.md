@@ -29,7 +29,7 @@ I am a versatilist and easily adapt to different hats (Frontend Web Developer ðŸ
 
 
 
-[![hemantsoni42's GitHub | Stats](https://stats.quine.sh/hemantsoni23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hemantsoni23) 
+[![hemantsoni23's GitHub | Stats](https://stats.quine.sh/hemantsoni23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hemantsoni23) 
 
 [![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemantsoni23&theme=radical)](https://github.com/hemantsoni23/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsoni23&layout=compact&theme=radical)](https://github.com/hemantsoni23/)
