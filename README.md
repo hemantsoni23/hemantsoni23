@@ -7,7 +7,7 @@ I am a versatilist and easily adapt to different hats (Frontend Web Developer ðŸ
 <br/>
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=hemantsoni42&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=hemantsoni23&row=1&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemantsoni42&label=Profile%20views&color=0e75b6&style=flat" alt="hemantsoni42" /> </p> -->
 
@@ -29,8 +29,8 @@ I am a versatilist and easily adapt to different hats (Frontend Web Developer ðŸ
 
 
 
-[![hemantsoni42's GitHub | Stats](https://stats.quine.sh/hemantsoni42/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hemantsoni42) 
+[![hemantsoni42's GitHub | Stats](https://stats.quine.sh/hemantsoni23/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=hemantsoni23) 
 
-[![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemantsoni42&theme=radical)](https://github.com/hemantsoni42/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsoni42&layout=compact&theme=radical)](https://github.com/hemantsoni42/)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=hemantsoni42&theme=dark)](https://git.io/streak-stats)
+[![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemantsoni42&theme=radical)](https://github.com/hemantsoni23/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hemantsoni42&layout=compact&theme=radical)](https://github.com/hemantsoni23/)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hemantsoni23&theme=dark)](https://git.io/streak-stats)
