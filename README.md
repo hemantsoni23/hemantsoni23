@@ -31,8 +31,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/hemantsoni23/hemantsoni23/output/snake.svg" alt="Snake animation" />
-
+  ![Snake animation](https://github.com/hemantsoni23/hemantsoni23/blob/output/github-contribution-grid-snake.svg)
 ###
 <img src="https://raw.githubusercontent.com/hemantsoni23/hemantsoni23/output/pacman-contribution-graph.svg" alt="Pacman animation" />
 
