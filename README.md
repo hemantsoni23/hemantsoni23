@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantsoni23&theme=algolia" alt="hemantsoni23" /></a> </p>
 
-- 🌱 I’m currently learning **GenAI, AI Agent**
+- 🌱 I’m currently learning **GenAI, AI Agent, and Web Development**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://hemantsoni.vercel.app/)
 
