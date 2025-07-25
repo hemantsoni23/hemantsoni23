@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hemant Soni</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+![Animation](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
+
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hemantsoni23&label=Profile%20views&color=0e75b6&style=flat" alt="hemantsoni23" /> </p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hemantsoni23&theme=algolia" alt="hemantsoni23" /></a> </p>
@@ -28,10 +31,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hemantsoni23&show_icons=true&locale=en&layout=compact&theme=algolia" alt="hemantsoni23" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hemantsoni23&show_icons=true&locale=en&theme=algolia" alt="hemantsoni23" /></p>
-
-<br clear="both">
-
-  ![Snake animation](https://github.com/hemantsoni23/hemantsoni23/blob/output/github-contribution-grid-snake.svg)
  
 ###
 <img src="https://raw.githubusercontent.com/hemantsoni23/hemantsoni23/output/pacman-contribution-graph.svg" alt="Pacman animation" />
