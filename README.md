@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/nkedin.com/in/hemant-soni-052199205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/hemant-soni-052199205/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/hemant-soni-052199205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nkedin.com/in/hemant-soni-052199205/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mihirhemu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mihirhemu" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hemantsoni023" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hemantsoni023" height="30" width="40" /></a>
 </p>
